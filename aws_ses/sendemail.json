@@ -1,0 +1,9 @@
+{
+  "Source": "eayni verify email <verify@mail.example>",
+  "Template": "VerifyCodeTemplate",
+  "ConfigurationSetName": "configuration-set",
+  "Destination": {
+    "ToAddresses": ["ahmedkhaled4d@gmail.com"]
+  },
+  "TemplateData": "{ \"code\":\"012356\" }"
+}

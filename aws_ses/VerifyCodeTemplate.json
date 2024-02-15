@@ -1,0 +1,7 @@
+{
+  "Template": {
+    "TemplateName": "VerifyCodeTemplate",
+    "SubjectPart": "PASS Vars to Template- {{code}}",
+    "HtmlPart": "HTML CODE"
+  }
+}
